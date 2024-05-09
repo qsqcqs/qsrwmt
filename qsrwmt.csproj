@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <ModBuildFolder>mod/yourmodname</ModBuildFolder>
+    <ModBuildFolder>mod/qsrwmt</ModBuildFolder>
   </PropertyGroup>
 
   <ItemGroup>
